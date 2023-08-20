@@ -2,11 +2,11 @@
 
 ## Overview and Origin
 
-The FinTech domain I have chosen is the Financial Services domain. The company I have chosen to research in particular is JPMorgan Chase. The project that I am particularly interested within JP Morgan is JPM Coin.
+The FinTech domain I have chosen is the Financial Services domain. The company I have chosen to research is JPMorgan Chase. The project that I am particularly interested within JP Morgan is JPM Coin.
 
-JPMorgan Chase & Co's origin can be traced back to 1799 in New York City. It's earliest predecessor institution was the Manhattan Company. The Bank of Commerce opened in New York City in 1839. This institution merged with the Guaranty Trust Company of New York in 1929, and is the earliest predecessor on the J.P. Morgan family tree. It was in 2000 when J.P. Morgan & Co. Incorporated merged with The Chase Manhattan Corporation, and the firm was renamed as J.P. Morgan Chase & Co. J.P. Morgan Chase & Co. then merged with Bank One in 2004, while retaining the name. [1]  
+JPMorgan Chase & Co's origin can be traced back to 1799 in New York City. Its earliest predecessor institution was the Manhattan Company. The Bank of Commerce opened in New York City in 1839. This institution merged with the Guaranty Trust Company of New York in 1929 and is the earliest predecessor on the J.P. Morgan family tree. It was in 2000 when J.P. Morgan & Co. Incorporated merged with The Chase Manhattan Corporation, and the firm was renamed as J.P. Morgan Chase & Co. J.P. Morgan Chase & Co. then merged with Bank One in 2004, while retaining the name. [1]  
 
-John Pierpont Morgan Sr. was the head of this banking firm which ultimately became known as J.P. Morgan and Co. He was an American financier and investment banker who dominated Wall Street. He was also the driving force behind the wave of industrial consodilation in the US spanning the late 19th and 20th centuries. [2]
+John Pierpont Morgan Sr. was the head of this banking firm which ultimately became known as J.P. Morgan and Co. He was an American financier and investment banker who dominated Wall Street. He was also the driving force behind the wave of industrial consolidation in the US spanning the late 19th and 20th centuries. [2]
 
 With multiple financial giants venturing into blockchain technology, JPMorgan Chase announced the deployment of its native digital currency, JPM Coin, via Onyx, on February 14, 2019. It is a stablecoin pegged 1:1 to the US dollar. This token was designated to facilitate the company's various cross-border monetary transactions. This currency also has the capability to support advance payment types like DvP (Delivery versus Payment), PvP (Payment versus Payment) and machine-to-machine payments and to help solve common hurdles of traditional cross border payments. [3][4][5]
 
