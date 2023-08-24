@@ -58,9 +58,7 @@ I believe JPMorgan Chase could venture into the crypto world and start their own
 
 Offering a cryptocurrency would attract a new set of customers. Entering the crypto world unlocks a new niche for the company, which would further increase revenues and share prices, while growing the firm as a whole. The future may also incline towards the use of cryptocurrency, so making an early move now could set JPMMorgan ahead of its rivals.
 
-A new cryptocurrency will utilize blockchain technology. A firm with an abundance of resources like JPMorgan Chase will be able to enter the world of crypto and make a mark with ease.
-
-Blockchain is crucial for the functioning of any cryptocurrency for maintaining a secure and decentralized record of transactions. [20]
+A new cryptocurrency will utilize blockchain technology. A firm with an abundance of resources like JPMorgan Chase will be able to enter the world of crypto and make a mark with ease. Blockchain is crucial for the functioning of any cryptocurrency for maintaining a secure and decentralized record of transactions. [20]
 
 
 ## References
